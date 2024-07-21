@@ -8,7 +8,7 @@ const Spotlight = () => {
      <div className="flex flex-col items-center">
        <div>
          <h1 className='text-white font-roboto text-2xl md:text-3xl xl:text-4xl text-center leading-[32px] md:leading-[40px] xl:leading-[48px] font-extralight tracking-[0.5px] md:tracking-[0.7px] xl:tracking-[0.9px]'>
-           Epic Games: An American video gamee and software developer
+           Epic Games: An American video game and software developer
            <br className="hidden md:block" />
            and publisher based in Cary, North Carolina.
          </h1>
