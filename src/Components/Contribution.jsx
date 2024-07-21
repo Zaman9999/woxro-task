@@ -2,7 +2,7 @@ import React from 'react';
 
 const Contribution = () => {
   return (
-    <div className='bg-black w-full h-auto  py-12'>
+    <div className='bg-black w-full h-auto py-3 md:py-12'>
       <div className='wrapper'>
         <div className='flex flex-col gap-5 text-center'>
           <h1 className='text-white font-roboto font-extralight text-3xl md:text-[42px] leading-[36px] md:leading-[48px]'>
